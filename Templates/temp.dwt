@@ -8,8 +8,10 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <title>@@(pagetitle)@@</title>
+<link rel="shortcut icon" href="../img/favicon.ico" />
 <link rel="stylesheet" href="../css/style.css">
 <script src="../js/jquery.js"></script>
+
 <script src="../js/common.js"></script>
 <!--[if IE]>
 <script src="../js/html5shiv.min.js"></script>
