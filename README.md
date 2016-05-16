@@ -6,8 +6,11 @@ html5ベース
 ###h3
 
 * list
-* list
-* 
+
+
+**strong**
+*italic*
+
 <dl>
   <dt>リンゴ</dt>
   <dd>赤いフルーツ</dd>
