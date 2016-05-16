@@ -5,5 +5,5 @@ html5ベース
 
 ###h3
 
-*list
-*list
+* list
+* list
